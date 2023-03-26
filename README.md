@@ -4,11 +4,13 @@ Create Lyrics from YouTube URLs!
 # How to Use
 
 1. Set app to open in administrator. You need to do this because all the folders are in the program files, an admin folder, which will be fixed in the next release!
+
 ![image](https://user-images.githubusercontent.com/128879733/227751936-36e2b1b3-ead2-4c32-93b3-e95f351382e6.png)
 
 2. Open the app
 
 3. Paste a video URL in the box, then press start.
+
 ![image](https://user-images.githubusercontent.com/128879733/227753009-a9dfb57b-5faa-4279-9388-563c6e076e70.png)
 
 4. You will be brought to the final folder with all the lyrics!
