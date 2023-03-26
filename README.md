@@ -9,7 +9,7 @@ Create Lyrics from YouTube URLs!
 
 2. Open the app
 
-3. Paste a video URL in the box, then press start.
+3. Paste a video URL in the box (1) , then press start (2) .
 
 ![image](https://user-images.githubusercontent.com/128879733/227753009-a9dfb57b-5faa-4279-9388-563c6e076e70.png)
 
@@ -20,4 +20,4 @@ Did you set it to an administrator?
 Does the video used have captions?
 Is the video a plain YouTube video, and not in a playlist?
 
-If all these arent fixes, leave the video URL and the issue aswell as, if possible, how to recreate it.
+If all these arent fixes, leave the video URL and the issue as well as, if possible, how to recreate it.
