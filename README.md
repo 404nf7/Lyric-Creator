@@ -21,3 +21,15 @@ Does the video used have captions?
 Is the video a plain YouTube video, and not in a playlist?
 
 If all these arent fixes, leave the video URL and the issue as well as, if possible, how to recreate it.
+
+# Updates
+
+<details>
+<summary>Alpha</summary>
+<br>
+<details>
+<summary>Alpha 0.0.1</summary>
+<br>
+Released first version. Expect bugs.
+</details>
+</details>
